@@ -500,7 +500,10 @@ p {
   padding-bottom: 30px;
   border: 20px solid #b8a07e;
 }
-
+.toggle:hover{
+color:blue;
+font-weight:800;
+}
 #about .div-img-bg .about-img img {
   width: 100%;
   box-shadow: 0px 0px 85px 0px rgba(0, 0, 0, 0.14);
